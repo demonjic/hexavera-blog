@@ -33,9 +33,9 @@ Production bottlenecks appear operational. Root cause analysis often traces them
 
 **Staffing Gaps Create Delayed Production Impact:** Workforce shortage at 7:00 AM becomes throughput reduction by 10:00 AM. Production metrics lag staffing reality by hours. Operations responds to production variance after workforce cause has compounded. Reactive management addresses symptoms while cause persists.
 
-**Bottleneck Attribution Masks Workforce Origin:** Production analysis identifies machine utilization, material flow, and scheduling as bottleneck causes. Root cause investigation stops at operational factors. Workforce contribution—particularly skill-specific gaps—remains invisible in production analytics. Same bottlenecks recur because intervention misses workforce driver.
+**Bottleneck Attribution Masks Workforce Origin:** Production analysis identifies machine utilization, material flow, and scheduling as bottleneck causes. Root cause investigation stops at operational factors. Workforce contribution (particularly skill-specific gaps) remains invisible in production analytics. Same bottlenecks recur because intervention misses workforce driver.
 
-**Leading Indicator Visibility Absent:** Production dashboards display lagging metrics (output, efficiency, quality). Workforce dashboards display point-in-time status (headcount, attendance). Gap between scheduled and available staffing—the leading indicator—lacks systematic visibility. Supervisors discover gaps reactively through shift start assessment.
+**Leading Indicator Visibility Absent:** Production dashboards display lagging metrics (output, efficiency, quality). Workforce dashboards display point-in-time status (headcount, attendance). Gap between scheduled and available staffing (the leading indicator) lacks systematic visibility. Supervisors discover gaps reactively through shift start assessment.
 
 <chart type="flow"
        title="Staffing Gap to Bottleneck Cascade (illustration)"

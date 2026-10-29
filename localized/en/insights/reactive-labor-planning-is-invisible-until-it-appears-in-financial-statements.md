@@ -39,7 +39,7 @@ Reactive labor planning occurs daily on the production floor. Financial recognit
 
 <chart type="stacked-bar"
        title="Variance Accumulation by Week (illustration)"
-       caption="Variance accumulates weekly while financial visibility arrives monthly; week 4 visibility reveals weeks 1–3 problems."
+       caption="Variance accumulates weekly while financial visibility arrives monthly; week 4 visibility reveals weeks 1 to 3 problems."
        x-labels="[&quot;Week 1&quot;, &quot;Week 2&quot;, &quot;Week 3&quot;, &quot;Week 4&quot;]"
        series-names="[&quot;Recognized&quot;, &quot;Unrecognized&quot;]"
        data="[[0, 0, 0, 100], [100, 100, 100, 0]]"

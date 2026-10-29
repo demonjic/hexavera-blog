@@ -33,7 +33,7 @@ Compliance violations emerge during shift execution. Detection delays prevent im
 
 ### Fragmented Systems Create Authority Gaps
 
-HRIS tracks scheduled compliance. Timekeeping systems track actual execution. MES records production timing and assignments. Discrepancies emerge across systems—but reconciliation occurs weeks later. Auditors note: no single system was the authoritative record at time of decision. Regulatory consequence: shared liability across HR, operations, and finance.
+HRIS tracks scheduled compliance. Timekeeping systems track actual execution. MES records production timing and assignments. Discrepancies emerge across systems, but reconciliation occurs weeks later. Auditors note: no single system was the authoritative record at time of decision. Regulatory consequence: shared liability across HR, operations, and finance.
 
 <chart type="line"
        title="Event Occurrence vs. Response Lag (illustration)"
@@ -46,7 +46,7 @@ HRIS tracks scheduled compliance. Timekeeping systems track actual execution. ME
 
 ### Real-Time Documentation Eliminates Authority Gaps
 
-Workforce events are recorded simultaneously at execution. No lag between action and record. Auditors see: decision documented, timestamp verified, authority assigned—all contemporaneous. Single authoritative record eliminates conflicting system views. Regulatory interpretation: control environment demonstrating rigor.
+Workforce events are recorded simultaneously at execution. No lag between action and record. Auditors see: decision documented, timestamp verified, authority assigned, all contemporaneous. Single authoritative record eliminates conflicting system views. Regulatory interpretation: control environment demonstrating rigor.
 
 ### Immediate Violation Detection Enables Same-Day Remediation
 

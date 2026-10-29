@@ -24,7 +24,7 @@ Workforce volatility metrics (turnover, absenteeism, skill gaps) fluctuate wildl
 
 **1. Fragmented Data Creates Multiple Inconsistent Views of Reality**
 
-Workforce count recorded in HRIS: 450 people. Same date in MES production system: 432 people worked. Same date in timekeeping system: 441 hours approved. Same date in payroll system: 438 people paid. Which number is correct? They all are—from their system perspective. None are complete. Finance reconciles these four sources and calls the gap "volatility." Operations knows the workforce was stable; the data sources simply weren't aligned.
+Workforce count recorded in HRIS: 450 people. Same date in MES production system: 432 people worked. Same date in timekeeping system: 441 hours approved. Same date in payroll system: 438 people paid. Which number is correct? They all are, from their own system's perspective. None are complete. Finance reconciles these four sources and calls the gap "volatility." Operations knows the workforce was stable; the data sources simply weren't aligned.
 
 **2. System Silos Create Authority Confusion Over Data Truth**
 
@@ -38,7 +38,7 @@ HRIS updates hourly (new hires, separations). Timekeeping system updates daily (
 
 **1. Unified Data Reveals Actual Workforce Stability**
 
-When workforce data integrates into a single source of truth, inconsistencies disappear. The workforce count doesn't change four times per month—it changes once when an actual hire or separation occurs. Absence patterns don't spike randomly—they follow actual patterns. Variance disappears not because operations improved, but because data noise is eliminated.
+When workforce data integrates into a single source of truth, inconsistencies disappear. The workforce count doesn't change four times per month; it changes once when an actual hire or separation occurs. Absence patterns don't spike randomly; they follow actual patterns. Variance disappears not because operations improved, but because data noise is eliminated.
 
 **2. Consistent Metrics Enable Predictive Models**
 

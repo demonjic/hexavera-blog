@@ -1,5 +1,5 @@
 ---
-title: "If You Can't Predict Absenteeism, You're Not Managing Cost—You're Gambling."
+title: "If You Can't Predict Absenteeism, You're Not Managing Cost. You're Gambling."
 description: "Absenteeism patterns drive unexpected labor costs and operational disruption. Predictive visibility converts absence volatility into controlled planning."
 author: "Ivan Milutinović"
 date: "2025-07-22"

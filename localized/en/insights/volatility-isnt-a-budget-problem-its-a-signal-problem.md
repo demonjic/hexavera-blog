@@ -1,5 +1,5 @@
 ---
-title: "Volatility isn't a budget problem—it's a signal problem."
+title: "Volatility isn't a budget problem; it's a signal problem."
 description: "Connecting apparent labor cost swings to operational data quality and reporting latency."
 author: "Tijana Naprta"
 date: "2025-08-12"

@@ -11,7 +11,7 @@ include_charts: true
 published: false
 ---
 
-Manufacturing leaders misdiagnose data synchronization failures as scheduling failures. MES/SCADA systems execute production accurately. HRIS and payroll systems track workforce accurately. But the two operate asynchronously. The gap between operational reality and reported staffing creates the illusion that scheduling failed. The scheduling was fine—the data architecture wasn't.
+Manufacturing leaders misdiagnose data synchronization failures as scheduling failures. MES/SCADA systems execute production accurately. HRIS and payroll systems track workforce accurately. But the two operate asynchronously. The gap between operational reality and reported staffing creates the illusion that scheduling failed. The scheduling was fine; the data architecture wasn't.
 
 ## What changes
 
@@ -42,7 +42,7 @@ When production systems receive real-time workforce updates (staffing status, ca
 
 **2. Integrated Data Prevents Cascading Decision Errors**
 
-When production makes a speed adjustment, and that adjustment doesn't reach workforce planning for 8 hours, workforce planning makes cover decisions based on old staffing requirements. When actual staffing arrives at the adjusted requirement level, the planned cover is excess—or when it doesn't arrive, it's shortage. Integration prevents these cascading errors. Production adjusts → workforce planning receives update immediately → staffing adjustments occur within the same shift → no variance accumulation.
+When production makes a speed adjustment, and that adjustment doesn't reach workforce planning for 8 hours, workforce planning makes cover decisions based on old staffing requirements. When actual staffing arrives at the adjusted requirement level, the planned cover is excess, or when it doesn't arrive, it's shortage. Integration prevents these cascading errors. Production adjusts → workforce planning receives update immediately → staffing adjustments occur within the same shift → no variance accumulation.
 
 **3. Synchronous Data Reveals Actual Capacity Constraints**
 
