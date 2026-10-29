@@ -1,7 +1,7 @@
 ---
 title: "Hexavera Insights"
 description: "Strategic workforce analytics, operational efficiency, and financial performance perspectives for manufacturing leadership."
-featured_image: "https://placehold.co/1200x600?text=Hexavera+Insights"
+featured_image: "https://cdn.jsdelivr.net/gh/obrana-boranija/hexavera-blog@main/Content/Images/Processed/hexavera-ai-cover-1200x630.webp"
 url: "insights"
 locale: "en"
 featured: true
