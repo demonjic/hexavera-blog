@@ -29,7 +29,7 @@ blocks:
       rows:
         - { label: "Decision", value: "Assign E-2041 to the night shift, Line 3, Tue 22:00" }
         - { label: "Rule", value: "DAILY-REST, minimum daily rest, version 3" }
-        - { label: "Legal source", value: "EU Working Time Directive 2003/88/EC, art. 3, as transposed in national law: 11 consecutive hours per 24 hours" }
+        - { label: "Legal source", value: "EU Working Time Directive 2003/88/EC, art. 3: at least 11 consecutive hours per 24 hours" }
         - { label: "Value used", value: "11 h, statutory level; no collective agreement or company value overrides it" }
         - { label: "Plant setting", value: "Rest is measured from the last clock-out at a time terminal. Set at site level by the plant HR administrator, valid from 1 March 2026" }
         - { label: "Input fact 1", value: "Last clock-out Tue 14:06, terminal T-04 (Attendance, punch record P-88213)" }
@@ -44,7 +44,7 @@ blocks:
     markdown: |
       > The swap was blocked because the employee would have had 7 hours and 54 minutes of rest before the night shift, and the law requires at least 11 consecutive hours in every 24.
       >
-      > The 11 hours come from the EU Working Time Directive, article 3, as written into national law. No collective agreement or company rule changes that value at this plant.
+      > The 11 hours are the minimum set by the EU Working Time Directive, article 3. No national rule, collective agreement or company rule raises that value at this plant.
       >
       > The rest was counted from the employee's last clock-out, at 14:06 on terminal T-04, to the start of the night shift at 22:00. The plant measures rest from the clock-out at a time terminal; its HR administrator set this on 1 March 2026.
       >
