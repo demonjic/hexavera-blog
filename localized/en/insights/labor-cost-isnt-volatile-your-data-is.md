@@ -3,7 +3,7 @@ title: "Labor Cost Isn't Volatile. Your Data Is."
 description: "How reporting errors and fragmented systems inflate perceived labor cost volatility in manufacturing operations."
 author: "Dejan Demonjić"
 date: "2025-11-26"
-featured_image: "https://placehold.co/800x400?text=Reported+vs+Actual+Labor+Cost+Variance"
+featured_image: "https://cdn.jsdelivr.net/gh/obrana-boranija/hexavera-blog@main/Content/Images/Processed/hexavera-ai-cover-1200x630.webp"
 categories: ["Manufacturing", "Workforce Analytics", "Financial Planning"]
 tags: ["Labor Cost", "Data Quality", "Variance Analysis", "Cost Management", "Financial Accuracy"]
 is_featured: true
