@@ -1,10 +1,10 @@
 ---
 title: "Anmeldung mit Microsoft Entra ID"
 description: "Bediener und Beschäftigte melden sich mit ihren Microsoft-Entra-ID-Arbeitskonten an. Rollen bleiben in Hexavera; in Ihr Verzeichnis schreibt Hexavera nie."
-url: "integrations/microsoft-entra-id"
+permalink: "/integrations/microsoft-entra-id"
 slug: "integration-microsoft-entra-id"
-locale: "de"
-localization_id: "page-integration-microsoft-entra-id"
+lang: "de"
+id: "page-integration-microsoft-entra-id"
 published: true
 layout: "page"
 blocks:

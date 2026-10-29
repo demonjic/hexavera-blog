@@ -1,10 +1,10 @@
 ---
 title: "O nama: zašto odluke o radnoj snazi trebaju evidenciju"
 description: "Hexaveru razvija TRIDESETRI d.o.o. iz Beograda: sustav evidencije odluka o radnoj snazi za industrijske pogone, s pravilima kao podacima i izvorima činjenica."
-url: "about"
+permalink: "/about"
 slug: "about"
-locale: "hr"
-localization_id: "page-about"
+lang: "hr"
+id: "page-about"
 published: true
 layout: "page"
 blocks:

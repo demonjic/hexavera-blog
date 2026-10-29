@@ -1,10 +1,10 @@
 ---
 title: "Интеграције: ваши системи остају, Hexavera се повезује"
 description: "Hexavera се повезује са HR системом, обрачуном зарада, ERP, хардвером за приступ, идентитетом и MES-ом. Они остају, а евиденција одлука је у систему Hexavera."
-url: "integrations"
+permalink: "/integrations"
 slug: "integrations"
-locale: "sr"
-localization_id: "page-integrations"
+lang: "sr"
+id: "page-integrations"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Die Hexavera-Plattform: Standort und Cloud-Mandant"
 description: "Access, Attendance und Presence laufen in jedem Werk, Connect, Govern, Automate und Predict im Cloud-Mandanten. Alle schreiben in ein Entscheidungsprotokoll."
-url: "platform"
+permalink: "/platform"
 slug: "platform"
-locale: "de"
-localization_id: "page-platform"
+lang: "de"
+id: "page-platform"
 published: true
 layout: "page"
 blocks:

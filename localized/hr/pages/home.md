@@ -1,10 +1,10 @@
 ---
 title: "Hexavera: odluke o radnoj snazi koje možete objasniti"
 description: "Hexavera je sustav evidencije odluka o radnoj snazi u industriji: svaka odluka o smjeni, pristupu i radnom vremenu donesena, provedena i objašnjena."
-url: ""
+permalink: "/"
 slug: "home"
-locale: "hr"
-localization_id: "page-home"
+lang: "hr"
+id: "page-home"
 published: true
 layout: "page"
 blocks:

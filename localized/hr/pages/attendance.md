@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Attendance: radno vrijeme, smjene i obračun plaće"
 description: "Evidencija radnog vremena, smjene, ispravci, zatvaranje razdoblja i izvoz za obračun plaće, uz provjeru odmora i radnog vremena u pogonu prije dodjele smjene."
-url: "products/attendance"
+permalink: "/products/attendance"
 slug: "attendance"
-locale: "hr"
-localization_id: "page-attendance"
+lang: "hr"
+id: "page-attendance"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera für die Lebensmittel- und Getränkeindustrie"
 description: "Hygienezonen, Dreischichtbetrieb, Saisonkräfte, Leiharbeit und Audits: wie Hexavera entscheidet, durchsetzt und belegt, wer im Werk wo arbeitet."
-url: "food-beverage"
+permalink: "/food-beverage"
 slug: "food-beverage"
-locale: "de"
-localization_id: "page-food-beverage"
+lang: "de"
+id: "page-food-beverage"
 published: true
 layout: "page"
 blocks:

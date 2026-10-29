@@ -1,10 +1,10 @@
 ---
 title: "Платформа Hexavera: производи у погону и закупац у облаку"
 description: "Access, Attendance и Presence раде у сваком погону, а Connect, Govern, Automate и Predict у вашем закупцу у облаку. Сви уписују у исту евиденцију одлука."
-url: "platform"
+permalink: "/platform"
 slug: "platform"
-locale: "sr"
-localization_id: "page-platform"
+lang: "sr"
+id: "page-platform"
 published: true
 layout: "page"
 blocks:

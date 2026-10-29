@@ -1,10 +1,10 @@
 ---
 title: "Увоз датотека: запослени, организација и радно време"
 description: "Увезите CSV датотеке са запосленима, организацијом и евиденцијом радног времена у свог закупца, уз проверу и извештај о сваком одбијеном реду."
-url: "integrations/file-import"
+permalink: "/integrations/file-import"
 slug: "integration-file-import"
-locale: "sr"
-localization_id: "page-integration-file-import"
+lang: "sr"
+id: "page-integration-file-import"
 published: true
 layout: "page"
 blocks:

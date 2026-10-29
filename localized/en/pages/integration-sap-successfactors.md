@@ -1,10 +1,10 @@
 ---
 title: "SAP SuccessFactors connector"
 description: "Connect reads people, organisation, positions, cost centres and time from SAP SuccessFactors into your Hexavera tenant, and writes time records back."
-url: "integrations/sap-successfactors"
+permalink: "/integrations/sap-successfactors"
 slug: "integration-sap-successfactors"
-locale: "en"
-localization_id: "page-integration-sap-successfactors"
+lang: "en"
+id: "page-integration-sap-successfactors"
 published: true
 layout: "page"
 blocks:

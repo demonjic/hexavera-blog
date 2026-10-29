@@ -1,10 +1,10 @@
 ---
 title: "Дијагностика усклађености: ваша историја, правило по правило"
 description: "Пошаљите нам евиденцију смена и радног времена за одређени период, уз уговор о обради података. Применићемо правила о радном времену и образложити налазе."
-url: "diagnostic"
+permalink: "/diagnostic"
 slug: "diagnostic"
-locale: "sr"
-localization_id: "page-diagnostic"
+lang: "sr"
+id: "page-diagnostic"
 published: true
 layout: "page"
 blocks:

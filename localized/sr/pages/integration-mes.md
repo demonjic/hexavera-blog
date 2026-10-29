@@ -1,10 +1,10 @@
 ---
 title: "MES и производни системи"
 description: "Connect чита распореде линија и налога из вашег MES-а, па се попуњавање, покривеност и подобност за радно место проверавају према стварном плану погона."
-url: "integrations/mes"
+permalink: "/integrations/mes"
 slug: "integration-mes"
-locale: "sr"
-localization_id: "page-integration-mes"
+lang: "sr"
+id: "page-integration-mes"
 published: true
 layout: "page"
 blocks:

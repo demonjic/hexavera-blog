@@ -1,10 +1,10 @@
 ---
 title: "Како Hexavera образлаже и симулира одлуку"
 description: "За савете запослених и ревизоре: како се одлука прати до правила, правног основа, подешавања погона и улазних чињеница и како се симулира измена правила."
-url: "explained"
+permalink: "/explained"
 slug: "explained"
-locale: "sr"
-localization_id: "page-explained"
+lang: "sr"
+id: "page-explained"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Microsoft Entra ID sign-in"
 description: "Operators and employees sign in to Hexavera with their Microsoft Entra ID work accounts. Roles stay in Hexavera, and Hexavera never writes to your directory."
-url: "integrations/microsoft-entra-id"
+permalink: "/integrations/microsoft-entra-id"
 slug: "integration-microsoft-entra-id"
-locale: "en"
-localization_id: "page-integration-microsoft-entra-id"
+lang: "en"
+id: "page-integration-microsoft-entra-id"
 published: true
 layout: "page"
 blocks:

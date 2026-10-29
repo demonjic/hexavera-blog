@@ -1,10 +1,10 @@
 ---
 title: "О систему Hexavera: зашто одлукама треба евиденција"
 description: "Hexavera развија TRIDESETRI d.o.o. из Београда: систем евиденције одлука о радној снази за индустрију, са правилима као подацима и чињеницама са изворима."
-url: "about"
+permalink: "/about"
 slug: "about"
-locale: "sr"
-localization_id: "page-about"
+lang: "sr"
+id: "page-about"
 published: true
 layout: "page"
 blocks:

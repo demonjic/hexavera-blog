@@ -1,10 +1,10 @@
 ---
 title: "Безбедност: контроле онакве какве су изграђене"
 description: "Како Hexavera штити податке о запосленима: где ради, изолација закупаца, пријава уз други фактор, овлашћења, шифровање, ревизијски траг и чување података."
-url: "security"
+permalink: "/security"
 slug: "security"
-locale: "sr"
-localization_id: "page-security"
+lang: "sr"
+id: "page-security"
 published: true
 layout: "page"
 blocks:

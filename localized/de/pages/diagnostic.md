@@ -1,10 +1,10 @@
 ---
 title: "Compliance-Diagnose: Ihre Historie, Regel für Regel geprüft"
 description: "Sie senden einen Auszug Ihrer Schicht- und Zeitdaten unter einem AVV. Wir prüfen ihn gegen die Arbeitszeitregeln und erklären Ihnen jeden Befund."
-url: "diagnostic"
+permalink: "/diagnostic"
 slug: "diagnostic"
-locale: "de"
-localization_id: "page-diagnostic"
+lang: "de"
+id: "page-diagnostic"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Kontaktirajte Hexaveru"
 description: "Opišite nam svoj pogon, sustave i odluke koje trebate objasniti. Javit ćemo vam se radi prvog razgovora i, ako odgovara, dijagnostike usklađenosti."
-url: "contact"
+permalink: "/contact"
 slug: "contact"
-locale: "hr"
-localization_id: "page-contact"
+lang: "hr"
+id: "page-contact"
 published: true
 layout: "page"
 blocks:

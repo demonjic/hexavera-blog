@@ -1,10 +1,10 @@
 ---
 title: "Über Hexavera: warum Personalentscheidungen Belege brauchen"
 description: "Hexavera von TRIDESETRI d.o.o., Belgrad: das führende System für Personalentscheidungen in der Produktion, mit Regeln als Daten und Angaben mit Quelle."
-url: "about"
+permalink: "/about"
 slug: "about"
-locale: "de"
-localization_id: "page-about"
+lang: "de"
+id: "page-about"
 published: true
 layout: "page"
 blocks:

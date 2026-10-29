@@ -1,10 +1,10 @@
 ---
 title: "Prijava putem Microsoft Entra ID-ja"
 description: "Operateri i zaposlenici prijavljuju se u Hexaveru poslovnim računima Microsoft Entra ID. Uloge ostaju u Hexaveri, koja nikad ne zapisuje ništa u vaš imenik."
-url: "integrations/microsoft-entra-id"
+permalink: "/integrations/microsoft-entra-id"
 slug: "integration-microsoft-entra-id"
-locale: "hr"
-localization_id: "page-integration-microsoft-entra-id"
+lang: "hr"
+id: "page-integration-microsoft-entra-id"
 published: true
 layout: "page"
 blocks:

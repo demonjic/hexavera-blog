@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Access an Attendance"
 description: "Hexavera Access übergibt jeden Durchgang samt markierter Lücken. Attendance liest diese Daten am Standort und macht daraus mit den Schichten Zeitergebnisse."
-url: "integrations/access-to-attendance"
+permalink: "/integrations/access-to-attendance"
 slug: "integration-access-to-attendance"
-locale: "de"
-localization_id: "page-integration-access-to-attendance"
+lang: "de"
+id: "page-integration-access-to-attendance"
 published: true
 layout: "page"
 blocks:

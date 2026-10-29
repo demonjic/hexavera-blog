@@ -1,10 +1,10 @@
 ---
 title: "Integrationen: Ihre Systeme bleiben, Hexavera bindet sie an"
 description: "Hexavera bindet HR-System, Lohnabrechnung, ERP, Zutrittshardware, Identitätsdienst und MES an. Sie bleiben; der Nachweis jeder Entscheidung liegt in Hexavera."
-url: "integrations"
+permalink: "/integrations"
 slug: "integrations"
-locale: "de"
-localization_id: "page-integrations"
+lang: "de"
+id: "page-integrations"
 published: true
 layout: "page"
 blocks:

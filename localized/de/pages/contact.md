@@ -1,10 +1,10 @@
 ---
 title: "Kontakt zu Hexavera"
 description: "Schildern Sie uns Ihr Werk, Ihre Systeme und die Entscheidungen, die Sie belegen müssen. Wir melden uns für ein erstes Gespräch, bei Bedarf für eine Diagnose."
-url: "contact"
+permalink: "/contact"
 slug: "contact"
-locale: "de"
-localization_id: "page-contact"
+lang: "de"
+id: "page-contact"
 published: true
 layout: "page"
 blocks:

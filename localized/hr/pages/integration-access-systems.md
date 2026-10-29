@@ -1,10 +1,10 @@
 ---
 title: "Drugi sustavi kontrole pristupa"
 description: "Već imate sustav kontrole pristupa? On ostaje. Connect iz njega čita osobe, identifikatore i događaje pristupa, a redoslijed novih sustava određuje potražnja."
-url: "integrations/access-systems"
+permalink: "/integrations/access-systems"
 slug: "integration-access-systems"
-locale: "hr"
-localization_id: "page-integration-access-systems"
+lang: "hr"
+id: "page-integration-access-systems"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Compliance diagnostic: your history, checked rule by rule"
 description: "Send a stretch of your shift and time records under a data processing agreement. We run the working-time rules over them and explain every finding."
-url: "diagnostic"
+permalink: "/diagnostic"
 slug: "diagnostic"
-locale: "en"
-localization_id: "page-diagnostic"
+lang: "en"
+id: "page-diagnostic"
 published: true
 layout: "page"
 blocks:

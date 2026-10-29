@@ -1,10 +1,10 @@
 ---
 title: "Konnektor für SAP SuccessFactors"
 description: "Connect liest Personal, Organisation, Stellen, Kostenstellen und Zeitdaten aus SAP SuccessFactors in Ihren Hexavera-Mandanten und schreibt Zeitdaten zurück."
-url: "integrations/sap-successfactors"
+permalink: "/integrations/sap-successfactors"
 slug: "integration-sap-successfactors"
-locale: "de"
-localization_id: "page-integration-sap-successfactors"
+lang: "de"
+id: "page-integration-sap-successfactors"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Uvoz datoteka: osobe, organizacija i radno vrijeme"
 description: "Uvezite CSV datoteke s osobama, organizacijom i evidencijom radnog vremena u svoje okruženje Hexavera, uz provjeru i izvješće o svakom odbijenom retku."
-url: "integrations/file-import"
+permalink: "/integrations/file-import"
 slug: "integration-file-import"
-locale: "hr"
-localization_id: "page-integration-file-import"
+lang: "hr"
+id: "page-integration-file-import"
 published: true
 layout: "page"
 blocks:

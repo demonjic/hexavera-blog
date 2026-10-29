@@ -1,10 +1,10 @@
 ---
 title: "Pravila o privatnosti: upravljanje podacima prema GDPR-u"
 description: "Kako Hexavera postupa s podacima o radnoj snazi prema GDPR-u: podaci svakog okruženja odvojeni su u vlastitoj shemi baze, uz ostvarivanje prava ispitanika."
-url: "privacy"
+permalink: "/privacy"
 slug: "privacy"
-locale: "hr"
-localization_id: "page-privacy"
+lang: "hr"
+id: "page-privacy"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

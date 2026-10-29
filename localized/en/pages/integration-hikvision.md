@@ -1,10 +1,10 @@
 ---
 title: "Hikvision access control with Hexavera Access"
 description: "Hexavera Access drives Hikvision access controllers over ISAPI: people, cards, schedules and door commands out, access events in, at your site."
-url: "integrations/hikvision"
+permalink: "/integrations/hikvision"
 slug: "integration-hikvision"
-locale: "en"
-localization_id: "page-integration-hikvision"
+lang: "en"
+id: "page-integration-hikvision"
 published: true
 layout: "page"
 blocks:

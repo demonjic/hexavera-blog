@@ -1,10 +1,10 @@
 ---
 title: "Hexavera: workforce decisions your plant can explain"
 description: "Hexavera is the decision system of record for the industrial workforce: every shift, access and time decision made, enforced, recorded and explained."
-url: ""
+permalink: "/"
 slug: "home"
-locale: "en"
-localization_id: "page-home"
+lang: "en"
+id: "page-home"
 published: true
 layout: "page"
 blocks:

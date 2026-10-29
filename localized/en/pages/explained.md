@@ -1,10 +1,10 @@
 ---
 title: "How Hexavera explains and simulates a decision"
 description: "For works councils and auditors: how a decision is traced to its rule, legal source, plant setting and input facts, and how a rule change is simulated."
-url: "explained"
+permalink: "/explained"
 slug: "explained"
-locale: "en"
-localization_id: "page-explained"
+lang: "en"
+id: "page-explained"
 published: true
 layout: "page"
 blocks:

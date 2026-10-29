@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Attendance: Zeit, Schichten und Lohnexport"
 description: "Zeiterfassung, Schichten, Korrekturen, Periodenabschluss und Lohnexport im Werk. Ruhe- und Höchstarbeitszeiten werden vor Ort geprüft, bevor die Schicht steht."
-url: "products/attendance"
+permalink: "/products/attendance"
 slug: "attendance"
-locale: "de"
-localization_id: "page-attendance"
+lang: "de"
+id: "page-attendance"
 published: true
 layout: "page"
 blocks:

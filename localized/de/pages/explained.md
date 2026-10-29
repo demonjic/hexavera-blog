@@ -1,10 +1,10 @@
 ---
 title: "Wie Hexavera Entscheidungen erklärt und simuliert"
 description: "Für Betriebsräte und Auditoren: wie Hexavera eine Entscheidung auf Regel, Rechtsgrundlage, Werkseinstellung und Daten zurückführt und Änderungen simuliert."
-url: "explained"
+permalink: "/explained"
 slug: "explained"
-locale: "de"
-localization_id: "page-explained"
+lang: "de"
+id: "page-explained"
 published: true
 layout: "page"
 blocks:

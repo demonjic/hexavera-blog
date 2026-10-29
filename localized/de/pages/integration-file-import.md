@@ -1,10 +1,10 @@
 ---
 title: "Dateiimport: Personal, Organisation und Zeit"
 description: "Importieren Sie CSV-Dateien mit Personal-, Organisations- und Zeitdaten in Ihren Hexavera-Mandanten, mit Validierung und Bericht über jede abgewiesene Zeile."
-url: "integrations/file-import"
+permalink: "/integrations/file-import"
 slug: "integration-file-import"
-locale: "de"
-localization_id: "page-integration-file-import"
+lang: "de"
+id: "page-integration-file-import"
 published: true
 layout: "page"
 blocks:

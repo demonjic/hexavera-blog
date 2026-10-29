@@ -1,10 +1,10 @@
 ---
 title: "Kontrola pristupa Hikvision uz Hexavera Access"
 description: "Hexavera Access upravlja kontrolerima pristupa Hikvision putem ISAPI-ja: osobe, kartice, rasporedi i naredbe vratima idu prema panelima, a događaji se vraćaju."
-url: "integrations/hikvision"
+permalink: "/integrations/hikvision"
 slug: "integration-hikvision"
-locale: "hr"
-localization_id: "page-integration-hikvision"
+lang: "hr"
+id: "page-integration-hikvision"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Услови коришћења: уговор за организације"
 description: "Услови коришћења система Hexavera за организације: уговорни услови сарадње у управљању радном снагом, уз уговоре о обради података и могућност прилагођавања."
-url: "terms"
+permalink: "/terms"
 slug: "terms"
-locale: "sr"
-localization_id: "page-terms"
+lang: "sr"
+id: "page-terms"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

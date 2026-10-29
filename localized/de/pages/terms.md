@@ -1,10 +1,10 @@
 ---
 title: "Nutzungsbedingungen: Unternehmensvertrag"
 description: "Nutzungsbedingungen von Hexavera für Unternehmen: vertragliche Regelungen für die Zusammenarbeit, mit Auftragsverarbeitungsverträgen und Anpassungsoptionen."
-url: "terms"
+permalink: "/terms"
 slug: "terms"
-locale: "de"
-localization_id: "page-terms"
+lang: "de"
+id: "page-terms"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

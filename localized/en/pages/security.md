@@ -1,10 +1,10 @@
 ---
 title: "Security: the controls, described as built"
 description: "How Hexavera protects workforce data: where it runs, tenant isolation, sign-in with a second factor, permissions, encryption, audit trails and data residency."
-url: "security"
+permalink: "/security"
 slug: "security"
-locale: "en"
-localization_id: "page-security"
+lang: "en"
+id: "page-security"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Lohnabrechnung: Stunden mit Belegen in Ihrem Format"
 description: "Hexavera liefert der Lohnabrechnung zuerst einen Auszug der Zutrittsereignisse je Periode, danach genehmigte Zeitergebnisse im Format Ihres Abrechnungssystems."
-url: "integrations/payroll"
+permalink: "/integrations/payroll"
 slug: "integration-payroll"
-locale: "de"
-localization_id: "page-integration-payroll"
+lang: "de"
+id: "page-integration-payroll"
 published: true
 layout: "page"
 blocks:

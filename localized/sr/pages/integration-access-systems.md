@@ -1,10 +1,10 @@
 ---
 title: "Други системи контроле приступа"
 description: "Већ користите систем контроле приступа? Он остаје. Connect из њега чита запослене, идентификаторе и догађаје, а нове системе додајемо према потражњи."
-url: "integrations/access-systems"
+permalink: "/integrations/access-systems"
 slug: "integration-access-systems"
-locale: "sr"
-localization_id: "page-integration-access-systems"
+lang: "sr"
+id: "page-integration-access-systems"
 published: true
 layout: "page"
 blocks:

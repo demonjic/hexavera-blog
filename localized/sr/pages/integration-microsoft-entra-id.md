@@ -1,10 +1,10 @@
 ---
 title: "Пријава преко Microsoft Entra ID"
 description: "Оператери и запослени пријављују се пословним налозима из Microsoft Entra ID. Улоге остају у систему Hexavera, који никада не уписује у ваш директоријум."
-url: "integrations/microsoft-entra-id"
+permalink: "/integrations/microsoft-entra-id"
 slug: "integration-microsoft-entra-id"
-locale: "sr"
-localization_id: "page-integration-microsoft-entra-id"
+lang: "sr"
+id: "page-integration-microsoft-entra-id"
 published: true
 layout: "page"
 blocks:

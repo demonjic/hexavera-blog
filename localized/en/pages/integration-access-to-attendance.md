@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Access to Attendance"
 description: "Hexavera Access publishes every passage with its gaps marked. Attendance reads that feed at the site and turns it, with shifts, into time results."
-url: "integrations/access-to-attendance"
+permalink: "/integrations/access-to-attendance"
 slug: "integration-access-to-attendance"
-locale: "en"
-localization_id: "page-integration-access-to-attendance"
+lang: "en"
+id: "page-integration-access-to-attendance"
 published: true
 layout: "page"
 blocks:

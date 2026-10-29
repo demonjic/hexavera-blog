@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Access: physical access control at the site"
 description: "Doors, readers, credentials, alarms, visitors and guard tours on a server at your plant. Every passage is recorded and feeds attendance and compliance."
-url: "products/access"
+permalink: "/products/access"
 slug: "access"
-locale: "en"
-localization_id: "page-access"
+lang: "en"
+id: "page-access"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Presence: employee self-service, kiosk and web"
 description: "Employees punch, check their timecard, schedule and balances, and request time off at a shop-floor kiosk or in the browser. Every request is recorded."
-url: "products/presence"
+permalink: "/products/presence"
 slug: "presence"
-locale: "en"
-localization_id: "page-presence"
+lang: "en"
+id: "page-presence"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera: одлуке о радној снази које погон може да образложи"
 description: "Hexavera је систем евиденције одлука о радној снази у индустрији: свака одлука о смени, приступу и радном времену донета, спроведена, забележена и образложена."
-url: ""
+permalink: "/"
 slug: "home"
-locale: "sr"
-localization_id: "page-home"
+lang: "sr"
+id: "page-home"
 published: true
 layout: "page"
 blocks:

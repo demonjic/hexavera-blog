@@ -1,10 +1,10 @@
 ---
 title: "Obračun plaće: sati i njihovi dokazi, u vašem formatu"
 description: "Hexavera obračunu plaće najprije daje izvadak događaja pristupa za svako razdoblje, a zatim odobreno radno vrijeme iz modula Attendance u formatu vašeg sustava."
-url: "integrations/payroll"
+permalink: "/integrations/payroll"
 slug: "integration-payroll"
-locale: "hr"
-localization_id: "page-integration-payroll"
+lang: "hr"
+id: "page-integration-payroll"
 published: true
 layout: "page"
 blocks:

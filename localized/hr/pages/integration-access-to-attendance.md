@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Access prema modulu Attendance"
 description: "Hexavera Access objavljuje svaki prolaz s označenim prazninama. Attendance taj tok čita u pogonu i zajedno sa smjenama pretvara ga u radno vrijeme."
-url: "integrations/access-to-attendance"
+permalink: "/integrations/access-to-attendance"
 slug: "integration-access-to-attendance"
-locale: "hr"
-localization_id: "page-integration-access-to-attendance"
+lang: "hr"
+id: "page-integration-access-to-attendance"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Access: Zutrittskontrolle am Standort"
 description: "Türen, Leser, Identmedien, Alarme, Besucher und Wächterrundgänge auf einem Server im Werk. Jeder Durchgang wird erfasst und fließt in Zeit und Compliance ein."
-url: "products/access"
+permalink: "/products/access"
 slug: "access"
-locale: "de"
-localization_id: "page-access"
+lang: "de"
+id: "page-access"
 published: true
 layout: "page"
 blocks:

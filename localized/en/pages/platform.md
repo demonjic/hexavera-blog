@@ -1,10 +1,10 @@
 ---
 title: "The Hexavera platform: site products and cloud tenant"
 description: "Access, Attendance and Presence run at each plant; Connect, Govern, Automate and Predict run in your cloud tenant. All of them write to one record of decisions."
-url: "platform"
+permalink: "/platform"
 slug: "platform"
-locale: "en"
-localization_id: "page-platform"
+lang: "en"
+id: "page-platform"
 published: true
 layout: "page"
 blocks:

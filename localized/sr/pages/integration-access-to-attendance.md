@@ -1,10 +1,10 @@
 ---
 title: "Од модула Hexavera Access до модула Attendance"
 description: "Hexavera Access објављује сваки пролаз са означеним празнинама. Attendance тај ток чита у погону и, уз смене, од њега израчунава радно време."
-url: "integrations/access-to-attendance"
+permalink: "/integrations/access-to-attendance"
 slug: "integration-access-to-attendance"
-locale: "sr"
-localization_id: "page-integration-access-to-attendance"
+lang: "sr"
+id: "page-integration-access-to-attendance"
 published: true
 layout: "page"
 blocks:

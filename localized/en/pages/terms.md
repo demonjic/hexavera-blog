@@ -1,10 +1,10 @@
 ---
 title: "Terms of Service: Enterprise Agreement"
 description: "Hexavera enterprise terms of service: contractual terms for workforce management partnerships, with data processing agreements and customisation options."
-url: "terms"
+permalink: "/terms"
 slug: "terms"
-locale: "en"
-localization_id: "page-terms"
+lang: "en"
+id: "page-terms"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

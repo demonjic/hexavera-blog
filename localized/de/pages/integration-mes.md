@@ -1,10 +1,10 @@
 ---
 title: "MES und Produktionssysteme"
 description: "Connect liest Linien- und Auftragspläne aus Ihrem MES. So werden Besetzung und Eignung für Arbeitsplätze gegen den Plan geprüft, nach dem Ihr Werk produziert."
-url: "integrations/mes"
+permalink: "/integrations/mes"
 slug: "integration-mes"
-locale: "de"
-localization_id: "page-integration-mes"
+lang: "de"
+id: "page-integration-mes"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Integracije: vaši sustavi ostaju, Hexavera se povezuje"
 description: "Hexavera se povezuje s kadrovskim sustavom, obračunom plaće, ERP-om, kontrolom pristupa, identitetima i MES-om. Oni ostaju, a evidencija odluka je u Hexaveri."
-url: "integrations"
+permalink: "/integrations"
 slug: "integrations"
-locale: "hr"
-localization_id: "page-integrations"
+lang: "hr"
+id: "page-integrations"
 published: true
 layout: "page"
 blocks:

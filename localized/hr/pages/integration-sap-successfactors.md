@@ -1,10 +1,10 @@
 ---
 title: "Konektor za SAP SuccessFactors"
 description: "Connect iz sustava SAP SuccessFactors u vaše okruženje Hexavera čita osobe, organizaciju, radna mjesta, mjesta troška i radno vrijeme te vraća evidenciju."
-url: "integrations/sap-successfactors"
+permalink: "/integrations/sap-successfactors"
 slug: "integration-sap-successfactors"
-locale: "hr"
-localization_id: "page-integration-sap-successfactors"
+lang: "hr"
+id: "page-integration-sap-successfactors"
 published: true
 layout: "page"
 blocks:

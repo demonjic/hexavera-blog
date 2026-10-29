@@ -1,10 +1,10 @@
 ---
 title: "Kako Hexavera objašnjava i simulira odluku"
 description: "Za radnička vijeća i auditore: kako se odluka prati do pravila, pravnog izvora, postavke pogona i ulaznih činjenica te kako se simulira promjena pravila."
-url: "explained"
+permalink: "/explained"
 slug: "explained"
-locale: "hr"
-localization_id: "page-explained"
+lang: "hr"
+id: "page-explained"
 published: true
 layout: "page"
 blocks:

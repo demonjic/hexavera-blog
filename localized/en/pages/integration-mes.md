@@ -1,10 +1,10 @@
 ---
 title: "MES and production systems"
 description: "Connect reads line and order schedules from your MES so staffing, coverage and station eligibility are checked against the plan your plant actually runs."
-url: "integrations/mes"
+permalink: "/integrations/mes"
 slug: "integration-mes"
-locale: "en"
-localization_id: "page-integration-mes"
+lang: "en"
+id: "page-integration-mes"
 published: true
 layout: "page"
 blocks:

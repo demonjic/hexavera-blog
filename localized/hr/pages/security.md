@@ -1,10 +1,10 @@
 ---
 title: "Sigurnost: kontrole opisane onakve kakve su izgrađene"
 description: "Kako Hexavera štiti podatke o radnoj snazi: gdje radi, odvojenost okruženja, dvofaktorska prijava, ovlaštenja, šifriranje, revizijski trag i lokacija podataka."
-url: "security"
+permalink: "/security"
 slug: "security"
-locale: "hr"
-localization_id: "page-security"
+lang: "hr"
+id: "page-security"
 published: true
 layout: "page"
 blocks:

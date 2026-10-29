@@ -1,10 +1,10 @@
 ---
 title: "Hexavera for food and beverage plants"
 description: "Hygiene zones, three-shift patterns, seasonal and agency labour, and audits: how Hexavera decides, enforces and records who works where in a food plant."
-url: "food-beverage"
+permalink: "/food-beverage"
 slug: "food-beverage"
-locale: "en"
-localization_id: "page-food-beverage"
+lang: "en"
+id: "page-food-beverage"
 published: true
 layout: "page"
 blocks:

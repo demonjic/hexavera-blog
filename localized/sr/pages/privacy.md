@@ -1,10 +1,10 @@
 ---
 title: "Политика приватности: управљање подацима према GDPR"
 description: "Како Hexavera обрађује податке о запосленима према GDPR: подаци сваког закупца изоловани у засебној шеми базе и начин остваривања права лица на које се односе."
-url: "privacy"
+permalink: "/privacy"
 slug: "privacy"
-locale: "sr"
-localization_id: "page-privacy"
+lang: "sr"
+id: "page-privacy"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

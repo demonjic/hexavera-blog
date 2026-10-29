@@ -1,10 +1,10 @@
 ---
 title: "Datenschutzerklärung: Data Governance nach DSGVO"
 description: "Wie Hexavera Personaldaten nach der DSGVO verarbeitet: die Daten jedes Mandanten in eigenem Datenbankschema, und wie Sie Ihre Betroffenenrechte ausüben."
-url: "privacy"
+permalink: "/privacy"
 slug: "privacy"
-locale: "de"
-localization_id: "page-privacy"
+lang: "de"
+id: "page-privacy"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

@@ -1,10 +1,10 @@
 ---
 title: "Uvjeti korištenja usluge: poslovni ugovor"
 description: "Uvjeti korištenja usluge Hexavera za poslovne korisnike: ugovorni uvjeti suradnje u upravljanju radnom snagom, s ugovorima o obradi podataka i prilagodbama."
-url: "terms"
+permalink: "/terms"
 slug: "terms"
-locale: "hr"
-localization_id: "page-terms"
+lang: "hr"
+id: "page-terms"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

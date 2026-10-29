@@ -1,10 +1,10 @@
 ---
 title: "File import: people, organisation and time"
 description: "Import CSV files of people, organisation and time records into your Hexavera tenant, with validation and a report that names every refused row."
-url: "integrations/file-import"
+permalink: "/integrations/file-import"
 slug: "integration-file-import"
-locale: "en"
-localization_id: "page-integration-file-import"
+lang: "en"
+id: "page-integration-file-import"
 published: true
 layout: "page"
 blocks:

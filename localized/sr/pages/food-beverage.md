@@ -1,10 +1,10 @@
 ---
 title: "Hexavera за погоне прехрамбене индустрије"
 description: "Хигијенске зоне, рад у три смене, сезонска и агенцијска радна снага и провере: како Hexavera одлучује, спроводи и бележи ко где ради у прехрамбеном погону."
-url: "food-beverage"
+permalink: "/food-beverage"
 slug: "food-beverage"
-locale: "sr"
-localization_id: "page-food-beverage"
+lang: "sr"
+id: "page-food-beverage"
 published: true
 layout: "page"
 blocks:

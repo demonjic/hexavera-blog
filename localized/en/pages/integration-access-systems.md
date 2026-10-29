@@ -1,10 +1,10 @@
 ---
 title: "Other access control systems"
 description: "Already run an access control system? It stays. Connect reads people, credentials and access events from it, and each new system is sequenced behind demand."
-url: "integrations/access-systems"
+permalink: "/integrations/access-systems"
 slug: "integration-access-systems"
-locale: "en"
-localization_id: "page-integration-access-systems"
+lang: "en"
+id: "page-integration-access-systems"
 published: true
 layout: "page"
 blocks:

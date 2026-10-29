@@ -1,10 +1,10 @@
 ---
 title: "Sicherheit: die Maßnahmen, wie sie umgesetzt sind"
 description: "Wie Hexavera Personaldaten schützt: Betrieb, Mandantentrennung, Anmeldung mit zweitem Faktor, Berechtigungen, Verschlüsselung, Audit-Trail und Datenstandort."
-url: "security"
+permalink: "/security"
 slug: "security"
-locale: "de"
-localization_id: "page-security"
+lang: "de"
+id: "page-security"
 published: true
 layout: "page"
 blocks:

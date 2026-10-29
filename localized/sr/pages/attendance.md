@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Attendance: радно време, смене и обрачун зарада"
 description: "Евиденција радног времена, смене, исправке, закључење периода и извоз за обрачун зарада, уз проверу одмора и радних сати у погону пре распореда."
-url: "products/attendance"
+permalink: "/products/attendance"
 slug: "attendance"
-locale: "sr"
-localization_id: "page-attendance"
+lang: "sr"
+id: "page-attendance"
 published: true
 layout: "page"
 blocks:

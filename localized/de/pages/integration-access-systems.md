@@ -1,10 +1,10 @@
 ---
 title: "Andere Zutrittskontrollsysteme"
 description: "Sie betreiben bereits ein Zutrittskontrollsystem? Es bleibt. Connect liest Personen, Identmedien und Ereignisse daraus; neue Systeme folgen dem Kundenbedarf."
-url: "integrations/access-systems"
+permalink: "/integrations/access-systems"
 slug: "integration-access-systems"
-locale: "de"
-localization_id: "page-integration-access-systems"
+lang: "de"
+id: "page-integration-access-systems"
 published: true
 layout: "page"
 blocks:

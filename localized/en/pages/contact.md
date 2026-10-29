@@ -1,10 +1,10 @@
 ---
 title: "Contact Hexavera"
 description: "Tell us about your plant, your systems and the decisions you need to explain. We reply to arrange a first conversation and, if it fits, a diagnostic."
-url: "contact"
+permalink: "/contact"
 slug: "contact"
-locale: "en"
-localization_id: "page-contact"
+lang: "en"
+id: "page-contact"
 published: true
 layout: "page"
 blocks:

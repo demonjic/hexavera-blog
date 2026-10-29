@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Access: контрола физичког приступа у погону"
 description: "Врата, читачи, идентификатори, аларми, посетиоци и обиласци на серверу у погону. Сваки пролаз се бележи и користи за радно време и усклађеност."
-url: "products/access"
+permalink: "/products/access"
 slug: "access"
-locale: "sr"
-localization_id: "page-access"
+lang: "sr"
+id: "page-access"
 published: true
 layout: "page"
 blocks:

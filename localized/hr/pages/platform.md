@@ -1,10 +1,10 @@
 ---
 title: "Platforma Hexavera: proizvodi u pogonu i okruženje u oblaku"
 description: "Access, Attendance i Presence rade u svakom pogonu, a Connect, Govern, Automate i Predict u vašem okruženju u oblaku. Svi pišu u jednu evidenciju odluka."
-url: "platform"
+permalink: "/platform"
 slug: "platform"
-locale: "hr"
-localization_id: "page-platform"
+lang: "hr"
+id: "page-platform"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Конектор за SAP SuccessFactors"
 description: "Connect из SAP SuccessFactors у вашег закупца чита запослене, организацију, радна места, места трошкова и радно време, а евиденцију радног времена враћа."
-url: "integrations/sap-successfactors"
+permalink: "/integrations/sap-successfactors"
 slug: "integration-sap-successfactors"
-locale: "sr"
-localization_id: "page-integration-sap-successfactors"
+lang: "sr"
+id: "page-integration-sap-successfactors"
 published: true
 layout: "page"
 blocks:

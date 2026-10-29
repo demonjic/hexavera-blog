@@ -1,10 +1,10 @@
 ---
 title: "Контакт: Hexavera"
 description: "Опишите нам свој погон, своје системе и одлуке које треба да образложите. Јавићемо се ради првог разговора и, ако има смисла, дијагностике."
-url: "contact"
+permalink: "/contact"
 slug: "contact"
-locale: "sr"
-localization_id: "page-contact"
+lang: "sr"
+id: "page-contact"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera za pogone prehrambene industrije i proizvodnje pića"
 description: "Higijenske zone, rad u tri smjene, sezonski i agencijski radnici te auditi: kako Hexavera određuje, provodi i bilježi tko gdje radi u prehrambenom pogonu."
-url: "food-beverage"
+permalink: "/food-beverage"
 slug: "food-beverage"
-locale: "hr"
-localization_id: "page-food-beverage"
+lang: "hr"
+id: "page-food-beverage"
 published: true
 layout: "page"
 blocks:

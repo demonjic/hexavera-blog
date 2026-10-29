@@ -1,10 +1,10 @@
 ---
 title: "About Hexavera: why workforce decisions need a record"
 description: "Hexavera is built by TRIDESETRI d.o.o. in Belgrade: the decision system of record for industrial plants, with rules as data and facts with sources."
-url: "about"
+permalink: "/about"
 slug: "about"
-locale: "en"
-localization_id: "page-about"
+lang: "en"
+id: "page-about"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Presence: самоуслуга запослених, киоск и веб"
 description: "Запослени се пријављују, прегледају радно време, распоред и салда и траже одсуство на киоску у погону или у прегледачу. Сваки захтев се евидентира."
-url: "products/presence"
+permalink: "/products/presence"
 slug: "presence"
-locale: "sr"
-localization_id: "page-presence"
+lang: "sr"
+id: "page-presence"
 published: true
 layout: "page"
 blocks:

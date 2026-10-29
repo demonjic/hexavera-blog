@@ -1,10 +1,10 @@
 ---
 title: "Hikvision-Zutrittskontrolle mit Hexavera Access"
 description: "Hexavera Access steuert Hikvision-Zutrittscontroller über ISAPI: Personen, Karten, Zeitprofile und Türbefehle hin, Zutrittsereignisse zurück, an Ihrem Standort."
-url: "integrations/hikvision"
+permalink: "/integrations/hikvision"
 slug: "integration-hikvision"
-locale: "de"
-localization_id: "page-integration-hikvision"
+lang: "de"
+id: "page-integration-hikvision"
 published: true
 layout: "page"
 blocks:

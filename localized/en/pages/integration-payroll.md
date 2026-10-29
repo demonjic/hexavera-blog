@@ -1,10 +1,10 @@
 ---
 title: "Payroll: hours and their evidence, in your format"
 description: "Hexavera gives payroll an access-event extract per period first, then approved time results from Attendance in the format your payroll system reads."
-url: "integrations/payroll"
+permalink: "/integrations/payroll"
 slug: "integration-payroll"
-locale: "en"
-localization_id: "page-integration-payroll"
+lang: "en"
+id: "page-integration-payroll"
 published: true
 layout: "page"
 blocks:

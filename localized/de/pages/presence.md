@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Presence: Self-Service am Terminal und im Web"
 description: "Mitarbeitende buchen, prüfen Zeitnachweis, Dienstplan und Salden und beantragen Urlaub am Terminal in der Halle oder im Browser. Jeder Antrag wird festgehalten."
-url: "products/presence"
+permalink: "/products/presence"
 slug: "presence"
-locale: "de"
-localization_id: "page-presence"
+lang: "de"
+id: "page-presence"
 published: true
 layout: "page"
 blocks:

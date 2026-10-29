@@ -1,10 +1,10 @@
 ---
 title: "MES i proizvodni sustavi"
 description: "Connect iz vašeg MES-a čita rasporede linija i naloga, pa se popunjavanje smjena i prikladnost za mjesto na liniji provjeravaju prema stvarnom planu pogona."
-url: "integrations/mes"
+permalink: "/integrations/mes"
 slug: "integration-mes"
-locale: "hr"
-localization_id: "page-integration-mes"
+lang: "hr"
+id: "page-integration-mes"
 published: true
 layout: "page"
 blocks:

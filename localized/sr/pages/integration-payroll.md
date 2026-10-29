@@ -1,10 +1,10 @@
 ---
 title: "Обрачун зарада: радни сати и докази, у вашем формату"
 description: "Hexavera обрачуну зарада најпре даје извод догађаја приступа по периоду, а затим одобрено радно време из модула Attendance у формату вашег система."
-url: "integrations/payroll"
+permalink: "/integrations/payroll"
 slug: "integration-payroll"
-locale: "sr"
-localization_id: "page-integration-payroll"
+lang: "sr"
+id: "page-integration-payroll"
 published: true
 layout: "page"
 blocks:

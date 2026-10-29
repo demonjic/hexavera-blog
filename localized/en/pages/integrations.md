@@ -1,10 +1,10 @@
 ---
 title: "Integrations: your systems stay, Hexavera connects"
 description: "Hexavera connects to the HRIS, payroll, ERP, access hardware, identity and MES you already run. They stay; the record of each decision lives in Hexavera."
-url: "integrations"
+permalink: "/integrations"
 slug: "integrations"
-locale: "en"
-localization_id: "page-integrations"
+lang: "en"
+id: "page-integrations"
 published: true
 layout: "page"
 blocks:

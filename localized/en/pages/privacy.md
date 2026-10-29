@@ -1,10 +1,10 @@
 ---
 title: "Privacy Policy: GDPR Data Governance"
 description: "How Hexavera handles workforce data under the GDPR: each tenant's data isolated in its own database schema, and how to exercise data subject rights."
-url: "privacy"
+permalink: "/privacy"
 slug: "privacy"
-locale: "en"
-localization_id: "page-privacy"
+lang: "en"
+id: "page-privacy"
 published: true
 layout: "page"
 last_modified: "2025-11-01"

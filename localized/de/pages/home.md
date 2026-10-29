@@ -1,10 +1,10 @@
 ---
 title: "Hexavera: Personalentscheidungen, die Ihr Werk belegen kann"
 description: "Hexavera ist das führende System für Personalentscheidungen in der Produktion: Schicht, Zutritt und Zeit, getroffen, durchgesetzt, belegt und erklärt."
-url: ""
+permalink: "/"
 slug: "home"
-locale: "de"
-localization_id: "page-home"
+lang: "de"
+id: "page-home"
 published: true
 layout: "page"
 blocks:

@@ -1,10 +1,10 @@
 ---
 title: "Hexavera Attendance: time, shifts and the payroll export"
 description: "Time capture, shifts, corrections, period close and the payroll export at your plant, with rest and maximum hours checked on site before a shift is set."
-url: "products/attendance"
+permalink: "/products/attendance"
 slug: "attendance"
-locale: "en"
-localization_id: "page-attendance"
+lang: "en"
+id: "page-attendance"
 published: true
 layout: "page"
 blocks:
