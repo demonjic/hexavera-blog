@@ -3,7 +3,7 @@ title: "Absenteeism doesn't just create coverage gaps. It drives premium pay esc
 description: "The financial cascade effect of workforce absence patterns on labor cost structure."
 author: "Dejan Demonjić"
 date: "2025-07-31"
-featured_image: "/images/blog/absence-cascade-financial-impact.jpg"
+featured_image: "https://cdn.jsdelivr.net/gh/obrana-boranija/hexavera-blog@main/Content/Images/Processed/hexavera-ai-cover-1200x630.webp"
 categories: ["Cost Management", "Workforce Analytics", "HR Strategy"]
 tags: ["Absenteeism Impact", "Premium Pay", "Cascade Effects", "Labor Cost", "Workforce Planning", "Manufacturing Operations"]
 is_featured: false
